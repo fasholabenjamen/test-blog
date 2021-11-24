@@ -1,1 +1,2 @@
-web: node index.js
+release: npx directus bootstrap
+web: npx directus start
